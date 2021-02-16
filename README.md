@@ -1,2 +1,2 @@
-# santrepo
-Projects developed by me for learning purpose.
+# sant_android_projects
+Android projects developed by me for learning purpose.
