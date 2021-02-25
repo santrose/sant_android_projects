@@ -1,4 +1,4 @@
-package com.santosh.mymaps_android
+package com.santosh.myplaces_with_googlemaps
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
